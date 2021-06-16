@@ -1,0 +1,8 @@
+{
+    "type": "python",
+    "processes": 1,
+    "path": "/home/foo/public_html/app/sample",
+    "module": "kakezan",
+    "user": "foo",
+    "group": "foo"
+}
